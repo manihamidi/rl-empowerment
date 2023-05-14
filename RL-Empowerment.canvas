@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"file","file":"Unsupervised Skill Learning.md","id":"2bac808ef979a596","x":-671,"y":-537,"width":520,"height":240},
+		{"type":"file","file":"Bildschirm­foto 2023-05-02 um 14.36.24.png","id":"d5a568fbd36a7a55","x":-621,"y":-166,"width":420,"height":223,"color":"1"},
+		{"type":"link","url":"https://arxiv.org/abs/1611.07507","id":"30c820dfe79188d0","x":-1241,"y":-182,"width":474,"height":206},
+		{"type":"link","url":"https://arxiv.org/abs/1802.06070","id":"7de2b127dd372669","x":-1238,"y":203,"width":467,"height":234},
+		{"id":"64787348682166f3","x":132,"y":-417,"width":504,"height":296,"type":"link","url":"https://arxiv.org/abs/2110.02719"},
+		{"type":"link","url":"https://openreview.net/forum?id=BJeAHkrYDS","id":"a55047a21b5ad350","x":-1705,"y":723,"width":467,"height":223},
+		{"type":"link","url":"https://arxiv.org/abs/2106.14305","id":"90394cf17c54c20c","x":-280,"y":1040,"width":460,"height":317},
+		{"id":"814751035dd1beb0","x":40,"y":437,"width":464,"height":262,"type":"link","url":"https://arxiv.org/abs/1807.10299"},
+		{"type":"link","url":"https://www.semanticscholar.org/paper/All-Else-Being-Equal-Be-Empowered-Klyubin-Polani/7fcffcf22c7fbe509b3a69f8fbd3a1626ad1c13e","id":"c66d86aa994543a1","x":-1678,"y":-1280,"width":400,"height":400},
+		{"type":"link","url":"https://arxiv.org/abs/1310.1863","id":"04ebcad8a0728362","x":-1204,"y":-1165,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ec705b8966136d8d","fromNode":"2bac808ef979a596","fromSide":"left","toNode":"30c820dfe79188d0","toSide":"top"},
+		{"id":"e4a47c96e070f448","fromNode":"2bac808ef979a596","fromSide":"bottom","toNode":"d5a568fbd36a7a55","toSide":"top"},
+		{"id":"d1a6819457bbb312","fromNode":"04ebcad8a0728362","fromSide":"bottom","toNode":"2bac808ef979a596","toSide":"left"},
+		{"id":"74c96453ea65875d","fromNode":"c66d86aa994543a1","fromSide":"right","toNode":"04ebcad8a0728362","toSide":"left"},
+		{"id":"672bf77520cd94b1","fromNode":"30c820dfe79188d0","fromSide":"bottom","toNode":"7de2b127dd372669","toSide":"top"},
+		{"id":"5868fe802e00552b","fromNode":"7de2b127dd372669","fromSide":"bottom","toNode":"a55047a21b5ad350","toSide":"top"},
+		{"id":"9c75a25641812035","fromNode":"7de2b127dd372669","fromSide":"bottom","toNode":"90394cf17c54c20c","toSide":"top"},
+		{"id":"77ae91448f47b9cc","fromNode":"7de2b127dd372669","fromSide":"bottom","toNode":"814751035dd1beb0","toSide":"top"},
+		{"id":"7b940c870674301b","fromNode":"814751035dd1beb0","fromSide":"bottom","toNode":"90394cf17c54c20c","toSide":"top"},
+		{"id":"7080b25bdb58222e","fromNode":"2bac808ef979a596","fromSide":"right","toNode":"64787348682166f3","toSide":"left"}
+	]
+}
